@@ -1,0 +1,4 @@
+com\application\clevtodo\ClevTodoApplication.class
+com\application\clevtodo\models\ClevTodo.class
+com\application\clevtodo\repositories\ClevTodoRepo.class
+com\application\clevtodo\controllers\ClevTodoController.class
